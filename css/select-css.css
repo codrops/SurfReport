@@ -26,6 +26,9 @@
 	color: inherit;
 }
 
+.custom-select select option {
+	color: #333;
+}
 
 .custom-select select:focus {
 	outline: none;
